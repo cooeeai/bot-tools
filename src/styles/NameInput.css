@@ -1,0 +1,10 @@
+.name-input.expanded {
+  margin-bottom: 13px;
+}
+
+.name-input.expanded > div {
+  position: relative;
+  top: 12px;
+  display: inline-block;
+  width: 350px;
+}

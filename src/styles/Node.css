@@ -1,0 +1,62 @@
+.form-group {
+  margin-bottom: 0.25rem;
+}
+
+form {
+  margin-left: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.node-buttons {
+  display: inline-block;
+}
+
+.node-buttons > * {
+  margin-left: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+.node-heading > a {
+  margin-right: 10px;
+}
+
+.node-heading > label {
+  font-weight: 600;
+}
+
+.container {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px 15px;
+}
+.form-group > label {
+  min-width: 120px;
+}
+
+.form-group > label > .btn {
+  margin-right: -22px;
+}
+
+.form-group > label > .btn-sm {
+  padding: 2px 4px;
+}
+
+.form-group pre, .form-group .readonly {
+  padding: 8px 12px;
+  margin: 0;
+}
+
+.form-group .input-group {
+  margin-top: 4px;
+}
+
+.action-buttons {
+  display: inline-block;
+}
+
+.action-buttons > button {
+  margin-left: 8px;
+}

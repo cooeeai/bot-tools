@@ -1,0 +1,36 @@
+{
+  "name": "tree-view",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "deep-freeze": "0.0.1",
+    "enzyme": "^2.4.1",
+    "react-addons-test-utils": "^15.3.0",
+    "react-scripts": "^0.6.0"
+  },
+  "dependencies": {
+    "firebase": "^3.6.3",
+    "history": "~1.17.0",
+    "jquery": "^3.1.1",
+    "react": "^15.3.0",
+    "react-addons-css-transition-group": "^15.4.1",
+    "react-addons-transition-group": "^15.4.1",
+    "react-dom": "^15.3.0",
+    "react-json-tree": "^0.10.0",
+    "react-redux": "^4.4.5",
+    "react-router": "~2.5.1",
+    "reactstrap": "^3.9.3",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.7.4",
+    "redux-router": "^2.1.2",
+    "redux-thunk": "^2.1.0",
+    "request": "^2.79.0",
+    "tether": "^1.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "react-scripts test"
+  }
+}
