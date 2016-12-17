@@ -12,6 +12,12 @@ Slots
 ![Slot Definition](docs/bot-tools-slots-detail.png)
 Slot Definition
 
+![Defining an Address Slot](docs/bot-tools-slots-address.png)
+Defining an Address Slot
+
+![Testing the Address API](docs/bot-tools-slots-address-api-test.png)
+Testing the Address API
+
 This project was built with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Available Scripts
